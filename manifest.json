@@ -1,16 +1,10 @@
 {
-    "workshoptitle": "Summary Comparison of AI Generative Services",
-    "help": "",
-    "include": {
-        "import": "../../common/import_notebook.md"
-    },
-    "tutorials": [
-        {         
-            "title": "",
-            "description": "",
-            "publisheddate": "10/08/2024",
-            "filename": "README.md"
-        }
-
+  "tutorials": [
+      {
+        "title": "Compare AI Services",
+        "description": "Comparison of AI Generative Services",
+        "publisheddate": "10/08/2024",
+        "filename": "README.md"
+      }
     ]
-}
+  }

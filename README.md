@@ -1,4 +1,4 @@
-## Team 
+## Comparisons
 |Item to Compare  | Select AI NL2SQL |Vector Search Custom Development | Select AI RAG | Generative AI Agents |
 |--- |--- |--- |--- |--- |
 | Use Case | Query structured data using a select statement without having to know SQL. | Pose questions and request tasks in a conversational format on unstructured data/documents that have have vector stores.  Queries will return a response that considers the semantics of the prompt, previous related prompts and responses, and document content (meaning and context). | Pose questions and request tasks in a conversational format on unstructured data/documents that have have vector stores.  Queries will return a response that considers the semantics of the prompt, previous related prompts and responses, and document content (meaning and context).| Pose questions and request tasks in a conversational format on unstructured data/documents that have have vector stores.  Queries will return a response that considers the semantics of the prompt, previous related prompts and responses, and document content (meaning and context). |
